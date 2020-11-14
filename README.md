@@ -7,6 +7,7 @@
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasTrevizanbr&show_icons=true&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTrevizanbr&show_icons=true&theme=dark&layout=compact)](https://www.linkedin.com/in/lucas-silva-trevizan-1191b51a7/)
 
 
