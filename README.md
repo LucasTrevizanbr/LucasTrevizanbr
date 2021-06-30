@@ -1,4 +1,4 @@
-# Lucas Silva Trevizan
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=LucasTrevizanBr&repo=LucasTrevizanBr&countColorcountColor)
 
 <table align="left">
   <row>
