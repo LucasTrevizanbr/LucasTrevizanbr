@@ -23,7 +23,7 @@ Formado pelo Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 <table>
   <tr>
     <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api?username=LucasTrevizanBr&show_icons=true&theme=dark></td>
-    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTrevizanBr1&show_icons=true&theme=dark&layout=compact></td>
+    <td><img align="left" padding-right="10px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTrevizanBr&show_icons=true&theme=dark&layout=compact></td>
   </tr>  
 </table>
 </center>
