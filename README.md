@@ -10,7 +10,7 @@ Formado pelo Bootcamp Genaration Brazil - Java Full Stack Developer 💻
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-silva-trevizan-1191b51a7/)](https://www.linkedin.com/in/lucas-silva-trevizan-1191b51a7/)
 
-## Minhas hardSkills:
+## Minhas hard skills:
 
 ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=plastic&logo=java&logoColor=white?logoWidth=40)
 ![Spring Badge](https://img.shields.io/badge/Spring%20-%236DB33F.svg?&style=plastic&logo=spring&logoColor=white)
