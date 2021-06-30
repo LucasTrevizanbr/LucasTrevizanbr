@@ -2,6 +2,8 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=LucasTrevizanbr&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTrevizanbr&show_icons=true&theme=dark&layout=compact)](https://www.linkedin.com/in/lucas-silva-trevizan-1191b51a7/)
+
 ### Para me conhecer melhor =)
 <p>Olá, meu nome é Lucas Trevizan e atualmente estou estudando para ser um desenvolvedor.  <br>
 <p>Aqui você pode dar uma olhada em algumas das minhas <strong>redes socias<strong>.
@@ -11,9 +13,6 @@
 <li>Experiência: Bootcamp Generation - Desenvolvedor Java Fullstack
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTrevizanbr&show_icons=true&theme=dark&layout=compact)](https://www.linkedin.com/in/lucas-silva-trevizan-1191b51a7/)
 
 
 
