@@ -11,6 +11,8 @@
   </row>
 </table> 
 
+<br>
+
 ### Para me conhecer melhor =)
 <p>Olá, meu nome é Lucas Trevizan e atualmente estou estudando para ser um desenvolvedor.  <br>
 <p>Aqui você pode dar uma olhada em algumas das minhas <strong>redes socias<strong>.
