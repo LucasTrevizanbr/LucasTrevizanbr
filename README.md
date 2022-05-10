@@ -2,7 +2,7 @@
 
 <h3 align="center">Redes sociais:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-silva-trevizan-1191b51a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-silva-trevizan/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-silva-trevizan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-silva-trevizan/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/trevizanlucas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trevianlucas" height="30" width="40" /></a>
 </p>
 
